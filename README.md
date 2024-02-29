@@ -8,7 +8,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/dashboard
-| 1    | Github Profile Page                         | https://github.com/https://github.com/victoirelang/victoirelang                                    |
+| 1    | Github Profile Page                         | https://github.com/victoirelang/victoirelang                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/`victoirelang`/`repo-name`/commit/`commit-nr`                |
 | 1    | Create a New Branch                         | https://github.com/`victoirelang`/`repo-name`/tree/`new-branch-name`            |
 | 1    | Create a conda environment                  | https://github.com/`victoirelang`/`repo-name`/blob/`branch-name`/`env.yml`      |
