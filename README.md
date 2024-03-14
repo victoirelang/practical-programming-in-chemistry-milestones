@@ -13,8 +13,8 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/victoirelang/ppchem/tree/new-branch-name           |
 | 1    | Create a conda environment                  | https://github.com/victoirelang/ppchem/blob/main/env.yml    |
 | 1    | Fork a Repo                                 | https://github.com/victoirelang/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |https://github.com/victoirelang/practical-programming-in-chemistry-milestones.git
-| 2    | (Optional) Review a Pull Request            | |
+| 1    | (Optional) Make a Pull Request              |https://github.com/victoirelang/practical-programming-in-chemistry-milestones.git  |
+| 2    | (Optional) Review a Pull Request            |
 
 **More milestones will be added throughout the course.**
 
