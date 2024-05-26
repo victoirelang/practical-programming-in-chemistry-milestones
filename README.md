@@ -15,6 +15,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/victoirelang/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              |https://github.com/victoirelang/practical-programming-in-chemistry-milestones/pull/1#issue-2186456020  |
 | 2    | (Optional) Review a Pull Request            |
+| 4    | Update env.yml via a Pull Request           |https://github.com/victoirelang/ppchem/blob/main/env2.yml  |
 
 **More milestones will be added throughout the course.**
 
